@@ -7,12 +7,12 @@ In this Repository following things are covered :
 
 ## Requirement 
 
-* Sklearn
-* Tensorflow
-* Keras
-* Numpy
-* Pandas 
-* Python 3
+* [Sklearn](https://scikit-learn.org/)
+* [Tensorflow](https://www.tensorflow.org/guide/)
+* [Keras](https://keras.io/)
+* [Numpy](https://www.numpy.org/devdocs/user/quickstart.html)
+* [Pandas](https://pandas.pydata.org/) 
+* [Python 3](https://www.python.org/)
 
 ## Natural Language Processing (NLP) :
 
